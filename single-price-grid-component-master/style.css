@@ -85,7 +85,7 @@ ul {
     padding-left : 0;
 }
 
-@media screen and (min-width:10px) {
+@media screen and (min-width:1440px) {
     
     h1 {
         font-size:2rem;
