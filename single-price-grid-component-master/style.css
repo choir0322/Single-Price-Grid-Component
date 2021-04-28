@@ -77,7 +77,7 @@ button:focus {
 }
 
 .container div:nth-child(3) {
-    background-color : var(--grayish-blue);
+    background-color : hsl(179, 62%, 50%);
     border-radius: 0 0 1rem 1rem;
 }
 ul {
