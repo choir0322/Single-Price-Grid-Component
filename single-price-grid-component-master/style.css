@@ -24,6 +24,7 @@ body {
     width : 25rem;
     box-shadow: 1rem 1rem 1em var(--light-grey), -1rem -1rem 1rem var(--light-grey);
     margin-top:15vh;
+    border-radius:3rem;
 }
 
 .container > div:not(button) {
